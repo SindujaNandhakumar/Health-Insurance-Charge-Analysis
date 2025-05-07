@@ -18,7 +18,7 @@ Using Python and data visualization tools, the analysis focuses on demographic f
 
 ---
 
-## 🧾 Dataset Description
+##  Dataset Description
 
 The dataset was sourced from Kaggle and includes 1,338 records with the following features:
 
